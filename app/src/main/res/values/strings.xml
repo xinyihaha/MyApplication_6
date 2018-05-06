@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application_6</string>
+    <string name="url_hint">input your website address</string>
+    <string name="button1">浏览网页</string>
+</resources>
